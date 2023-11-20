@@ -1,7 +1,7 @@
 :root {
-        --cor-de-fundo:#e2e5ec;
-        --cor-de-cabecalho: #D2D6DC;
-        --fundo-menu: #636365;
+        --cor-de-fundo:#d3d3d3;
+        --cor-de-cabecalho: #ffffff;
+        --fundo-menu: #ffffff;
 }
 
 body {
@@ -23,14 +23,14 @@ body {
         padding: 10px;
         font-size: 24px;
         text-decoration: none;
-        color: #636365;
+        color: #000000;
         text-align: center;
         border-top: 1px solid;
 }
 
 .paragrafo{
         font-size: 30px;
-        color: #636365;
+        color: #000000;
         font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
